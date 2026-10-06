@@ -11,11 +11,13 @@ Establecer la comparación de una deflexión medida en el centro de una viga sim
 La viga tiene una longitud de 4 m entre apoyos, tiene una sección rectangular de ancho b = 0,2 m y altura h = 0,4 m. El módulo de elasticidad para este ejercicio es de 25 GPa. La viga tiene una carga puntual centrada. Los datos de deflexión son sintéticos y se entregan exclusivamente con fines docentes.
 
 ## Contenido del repositorio 
+La estructura sigue la sugerida en el enunciado. Diferencias: el PDF se llama `nota_tecnica_hito1.pdf` para identificar el hito, y `data/` incluye `esquema_viga.png` porque la nota técnica lo usa como Figura 1.
 - data: archivos de entrada originales, sin modificar.
 - analysis: planilla con todos los cálculos.
 - figures: figura de carga-deflexión de la viga.
 - report: nota técnica en LaTeX.
 - USO_IA.md: declaración del uso de la inteligencia artificial.
+  
 
 ## Reproducción del análisis
 1. Descargar o clonar este repositorio.
