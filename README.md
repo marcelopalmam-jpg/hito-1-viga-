@@ -18,6 +18,16 @@ La viga tiene una longitud de 4 m entre apoyos, tiene una sección rectangular d
 - USO_IA.md: declaración del uso de la inteligencia artifical.
 
 ## Reproducción del análisis
-Pendiente: Esto se hará cuando esté completamente terminado el análisis.
+1. Descargar o clonar este repositorio.
+2. Abrir `analysis/analisis_viga.xlsx` en Excel.
+3. En la hoja `Parametros` están los datos de la viga (b,h,L,E) con las unidades convertidas y las fórmulas correspondientes.
+4. Los datos originales sin modificar están en `data/`.
+5. La figura carga-deflexión está en `figures/carga_deflexion.png` y también dentro de la planilla Excel.
+6. Para recompilar la nota técnica, abrir `report/main.tex` en Overleaf y subir junto con él `report/referencias.bib`, `figures/carga_deflexion.png` y `data/esquema_viga.png`.
+Las verificaciones adicionales están en la hoja de cálculo.
+
+## Versión entregada
+- Commit final entregado:
+- Nota técnica: `report/nota_tecnica_hito1.pdf`
 
 
