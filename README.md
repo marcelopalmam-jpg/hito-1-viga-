@@ -12,10 +12,10 @@ La viga tiene una longitud de 4 m entre apoyos, tiene una sección rectangular d
 
 ## Contenido del repositorio 
 - data: archivos de entrada originales, sin modificar.
-- analysis: planilla con todos los cálculos (pendiente).
-- figures: figura de carga-deflexión de la viga (pendiente).
-- report: nota técnica en LaTeX (pendiente).
-- USO_IA.md: declaración del uso de la inteligencia artifical.
+- analysis: planilla con todos los cálculos.
+- figures: figura de carga-deflexión de la viga.
+- report: nota técnica en LaTeX.
+- USO_IA.md: declaración del uso de la inteligencia artificial.
 
 ## Reproducción del análisis
 1. Descargar o clonar este repositorio.
@@ -24,10 +24,8 @@ La viga tiene una longitud de 4 m entre apoyos, tiene una sección rectangular d
 4. Los datos originales sin modificar están en `data/`.
 5. La figura carga-deflexión está en `figures/carga_deflexion.png` y también dentro de la planilla Excel.
 6. Para recompilar la nota técnica, abrir `report/main.tex` en Overleaf y subir junto con él `report/referencias.bib`, `figures/carga_deflexion.png` y `data/esquema_viga.png`.
-Las verificaciones adicionales están en la hoja de cálculo.
+7. Las verificaciones adicionales están en la hoja de cálculo.
 
 ## Versión entregada
-- Commit final entregado:
+- Commit final entregado: ver el hash indicado en la entrega del Moodle.
 - Nota técnica: `report/nota_tecnica_hito1.pdf`
-
-
